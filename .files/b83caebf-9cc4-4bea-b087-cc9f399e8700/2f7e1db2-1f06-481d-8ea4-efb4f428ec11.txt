@@ -1,0 +1,3 @@
+/home/saisri/TestGpt/data/GCP.pdf
+ /home/saisri/TestGpt/data/Databricks Documents.docx
+ /home/saisri/TestGpt/data/AWS 1.pdf
